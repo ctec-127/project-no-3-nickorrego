@@ -3,7 +3,7 @@
 # Create a new connection to the database
 $host = 'localhost';
 $username = 'root';
-$password = '';
+$password = 'root';
 $database = 'ctec';
 
 $db = new mysqli(
